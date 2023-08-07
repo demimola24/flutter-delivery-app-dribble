@@ -6,8 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://cdn.dribbble.com/userupload/7475099/file/original-9e1e35b480933650f147affb0a8878e8.mp4))
 
+https://github.com/demimola24/flutter-delivery-app-dribble/assets/38075022/bf622fef-9d6d-4557-8848-f302640721bc
+
+
+Dribble Reference:
+https://dribbble.com/shots/21617837-Movemate-Shipments-Mobile-App
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
