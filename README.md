@@ -2,11 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Delivery App Demo
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://cdn.dribbble.com/userupload/7475099/file/original-9e1e35b480933650f147affb0a8878e8.mp4))
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
